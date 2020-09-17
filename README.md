@@ -5,7 +5,7 @@ The MATLAB script in this repository enable to create lists of pseudo-randomizat
 
 ## Cite the repository
 C.A. Wicht, RandomOrder, (2020), GitHub repository, https://github.com/CorentinWicht/RandomOrder \
-*Missing DOI*
+[![DOI](https://zenodo.org/badge/296019359.svg)](https://zenodo.org/badge/latestdoi/296019359)
 
 
 ## Table of Contents
