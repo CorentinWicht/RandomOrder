@@ -9,7 +9,17 @@ C.A. Wicht, RandomOrder, (2020), GitHub repository, https://github.com/CorentinW
 
 
 ## Table of Contents
-*XXX*
+- [Getting Started](#getting-started)
+  * [1. Number of runs](#1-number-of-runs)
+  * [2. Parameters](#2-parameters)
+  * [3. Exporting Workspace Variables](#3-exporting-workspace-variables)
+  * [4. Excel Output](#4-excel-output)
+- [Author](#author)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Fundings](#fundings)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Getting Started
@@ -41,7 +51,7 @@ This is the main parameter prompt in which you need to specify for the **current
 3) In a within-subject scheme, you can include up to 5 items that you want to pseudo-randomize.
 4) In a between-subject scheme, you can also include up to 5 items that you want to pseudo-randomize.
 ```
-To have a better idea of how the output will look like once you filled the parameters prompt, check out the example below in [Chapter 4](#4.-excel-output).
+To have a better idea of how the output will look like once you filled the parameters prompt, check out the example below in [Chapter 4](#4-excel-output).
 
 
 ![](tools/screenshots/ExcelFileExport.png)
@@ -67,7 +77,7 @@ If you want to dig deeper into the pseudo-random distribution of each of the def
 
 ![](tools/screenshots/ExcelOutput.png)
 
-This is an example of how the output Excel file will look like (i.e. the example is based on the parameters provided in [Chapter 2](#2.-parameters)). \
+This is an example of how the output Excel file will look like (i.e. the example is based on the parameters provided in [Chapter 2](#2-parameters)). 
 ```
 - The first column will always contain the participant number and the session in the following format: Px_Sx.
 - Then the next columns will correspond to the within-subjects factor levels (e.g. QUESTIONNAIRES_1)
