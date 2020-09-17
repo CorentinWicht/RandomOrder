@@ -1,6 +1,6 @@
-% RANDOMIZATION Script for CAF STUDY
+% RANDOMIZATION Script 
 
-% 16.12.2019
+% 17.09.2020
 % Author: Corentin Wicht (corentin.wicht@unifr.ch)
 clear variables; clc;
 
